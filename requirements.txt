@@ -1,0 +1,20 @@
+# Attribution MVP - Python Dependencies
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Background Jobs
+apscheduler==3.10.4
+
+# Google Ads API
+google-ads>=21.3.0
+
+# HTTP Requests
+requests==2.31.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Optional: ngrok for testing
+# pyngrok==7.0.0
